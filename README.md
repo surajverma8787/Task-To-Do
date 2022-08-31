@@ -1,6 +1,6 @@
 
-# Task To Done
-The Task To Done is a simple NodeJs Based Application . 
+# Task To Do
+The Task To Do is a simple NodeJs Based Application . 
 The user can add task , after that he can also delete the Task when it's done, or remove it using the checkbox button.
 
 
